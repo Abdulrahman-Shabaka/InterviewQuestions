@@ -1,0 +1,40 @@
+abstract class:-
+	https://www.geeksforgeeks.org/c-sharp-abstract-classes/
+	https://www.w3schools.com/cs/cs_abstract.php
+
+
+virtual override new :-
+	https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/virtual
+	https://www.dotnettricks.com/learn/csharp/understanding-virtual-override-and-new-keyword-in-csharp
+
+equals vs ==
+	https://www.codeproject.com/Articles/1111680/equalsequals-VS-Equals-in-Csharp
+	https://www.tutorialspoint.com/difference-between-and-equals-method-in-chash
+
+checked:-
+	https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/checked-and-unchecked
+
+exception:-
+
+generic constrain:-
+	https://www.tutorialsteacher.com/csharp/constraints-in-generic-csharp
+
+bitflag enum:-
+	https://www.alanzucconi.com/2015/07/26/enum-flags-and-bitwise-operators/
+
+
+Boxing and unboxing:-
+	https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/types/boxing-and-unboxing?source=recommendations
+
+Built in delegate:-
+	https://www.c-sharpcorner.com/blogs/c-sharp-generic-delegates-func-action-and-predicate
+
+Interfaces:-
+	https://www.c-sharpcorner.com/UploadFile/vikie4u/why-do-we-use-interfaces-in-C-Sharp/
+
+Built in interfaces:-
+
+Interface vs abstract:-
+	https://www.geeksforgeeks.org/difference-between-abstract-class-and-interface-in-c-sharp/
+	https://www.infoworld.com/article/2928719/when-to-use-an-abstract-class-vs-interface-in-csharp.html
+	
