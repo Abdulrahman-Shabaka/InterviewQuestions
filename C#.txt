@@ -14,7 +14,12 @@ equals vs ==
 checked:-
 	https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/checked-and-unchecked
 
+Errors:-
+	https://www.dotnettricks.com/learn/csharp/a-deep-dive-into-csharp-errors-or-exceptions-handling
+
 exception:-
+	https://www.completecsharptutorial.com/basic/complete-system-exception.php
+	https://www.tutorialsteacher.com/csharp/csharp-exception
 
 generic constrain:-
 	https://www.tutorialsteacher.com/csharp/constraints-in-generic-csharp
@@ -37,4 +42,39 @@ Built in interfaces:-
 Interface vs abstract:-
 	https://www.geeksforgeeks.org/difference-between-abstract-class-and-interface-in-c-sharp/
 	https://www.infoworld.com/article/2928719/when-to-use-an-abstract-class-vs-interface-in-csharp.html
+
+?? and ??= operators:-
+	https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/null-coalescing-operator
+
+Dependency Injection:-
+	https://www.dotnettricks.com/learn/dependencyinjection/implementation-of-dependency-injection-pattern-in-csharp
+	1-Reduces class coupling
+	2-Increases code reusability
+	3-Improves code maintainability
+	4-Make unit testing possible 
 	
+Singleton:-
+	https://refactoring.guru/design-patterns/singleton/csharp/examplehttps://refactoring.guru/design-patterns/singleton/csharp/example
+
+Object Initializer:-
+	https://www.geeksforgeeks.org/object-and-collection-initializer-in-c-sharp/
+
+Init:-
+	https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/init
+
+Var:-
+	1-can't be null
+	2-must been assigned when decelerate
+	3-can't change the value type
+
+Anonymous object:-
+	https://www.tutorialsteacher.com/csharp/csharp-anonymous-type
+
+Anonymous function:-
+	https://www.tutorialspoint.com/csharp/csharp_anonymous_methods.htm
+
+Extension Method:-
+	https://www.tutorialsteacher.com/csharp/csharp-extension-method
+
+Ternary Operator:-
+	https://www.tutorialsteacher.com/csharp/csharp-ternary-operator
