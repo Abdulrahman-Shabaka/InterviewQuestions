@@ -78,3 +78,6 @@ Extension Method:-
 
 Ternary Operator:-
 	https://www.tutorialsteacher.com/csharp/csharp-ternary-operator
+
+ADO connected and disconnected:-
+	https://www.oreilly.com/library/view/adonet-in-a/0596003617/ch01s02.html
